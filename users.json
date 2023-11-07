@@ -8,5 +8,5 @@
     {"id":7,"name":"Michael Brown","username":"michaelbrown","email":"michaelbrown@example.com","address":"444 Cedar St"},
     {"id":8,"name":"Emily Davis","username":"emilydavis","email":"emilydavis@example.com","address":"555 Birch St"},
     {"id":9,"name":"William Martinez","username":"williammartinez","email":"williammartinez@example.com","address":"666 Cedar St"},
-    {"id":10,"name":"Ashley Rodriguez","username":"ashleyrodriguez","email":"ashleyrodriguez@example.com","address":"777 Pine St"}\
+    {"id":10,"name":"Ashley Rodriguez","username":"ashleyrodriguez","email":"ashleyrodriguez@example.com","address":"777 Pine St"}
 ]
